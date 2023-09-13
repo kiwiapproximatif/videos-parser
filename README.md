@@ -41,7 +41,6 @@ To split videos, we have to create a JSON metadata file with the following struc
 ]
 ```
 
-Variables :
 - `videos`: Videos metadata
     - `in_path` : Path of the target video
     - `destination_path` : Destination of the output(s)
