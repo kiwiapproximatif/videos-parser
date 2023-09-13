@@ -33,7 +33,7 @@ To split videos, we have to create a JSON metadata file with the following struc
                 {
                     "start": "00:05:01",
                     "end": "00:10:00",
-                    "title": "First"
+                    "title": "Second"
                 }
             ]
         }
