@@ -1,7 +1,7 @@
 import json
 import os
 
-from helpers import slugify
+from .helpers import slugify
 
 
 class VideoSplitter:

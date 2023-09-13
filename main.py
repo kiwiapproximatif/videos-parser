@@ -10,7 +10,7 @@ def main():
         '-p',
         '--path',
         dest='pathname',
-        help='videos metadata pathgit name',
+        help='videos metadata pathname.',
         type='string',
         action='store'
     )
