@@ -15,7 +15,7 @@ Options:
 
 ## Metadata structure
 
-To split videos, we have to create a metadata file with the following structure.
+To split videos, we have to create a JSON metadata file with the following structure.
 
 ```json
 [

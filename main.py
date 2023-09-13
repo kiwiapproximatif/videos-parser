@@ -10,7 +10,7 @@ def main():
         '-p',
         '--path',
         dest='pathname',
-        help='videos metadata pathname.',
+        help='JSON metadata file pathname.',
         type='string',
         action='store'
     )
