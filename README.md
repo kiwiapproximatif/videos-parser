@@ -10,7 +10,7 @@ Usage: main.py [options]
 Options:
   -h, --help            show this help message and exit
   -p PATHNAME, --path=PATHNAME
-                        videos metadata pathname.
+                        JSON metadata file pathname
 ```
 
 ## Metadata structure
